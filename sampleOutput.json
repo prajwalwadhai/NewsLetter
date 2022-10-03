@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Kenneth Chang, Jane Perlez",
+            "title": "China Launches Wentian Space Station Module With Giant Rocket - The New York Times",
+            "description": "Another Long March 5B rocket is traveling through space. When its 23-ton booster comes back down, no one knows where the debris will land.",
+            "url": "https://www.nytimes.com/2022/07/24/science/china-space-rocket-long-march.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/24/world/24sci-china-rocket-sub-top/24sci-china-rocket-sub-top-facebookJumbo.jpg",
+            "publishedAt": "2022-07-24T07:22:34Z",
+            "content": "Skylab, the first American space station, plummeted to Earth in 1979, with large pieces hitting Western Australia. (NASA never paid a $400 fine for littering.)\r\nNASA also did not plan the disposal of… [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Dan Ladden-Hall",
+            "title": "Insiders Admit Race to Be Next U.K. Prime Minister Is Headed for 'Five-Star Catastrophe' - The Daily Beast",
+            "description": "It's now a showdown between two candidates hated by at least half of their own party—and most of the country.",
+            "url": "https://www.thedailybeast.com/insiders-admit-race-to-be-next-uk-pm-is-prime-minister-for-five-star-catastrophe",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658593138/220723-uk-drama-hero_g5g1er",
+            "publishedAt": "2022-07-24T07:12:21Z",
+            "content": "The race to replace Boris Johnson as Conservative Party leader and therefore prime minister has turned into a Rorschach test designed to discover all the different ways Britains Conservatives are mis… [+8744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "U.S. women shock Jamaica to win 4x100 relay; U.S. men flounder again at world championships - ESPN",
+            "description": "The U.S. women pulled a shocking upset over Jamaica in the 4x100 relay at world championships Saturday, while the men finished second to Canada.",
+            "url": "https://www.espn.com/olympics/trackandfield/story/_/id/34287178/us-women-shock-jamaica-win-4x100-relay-us-men-flounder-again-world-championships",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0724%2Fr1039872_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-07-24T04:41:15Z",
+            "content": "EUGENE, Ore. -- For the U.S. women's relay team, this was a shock.\r\nFor the men -- more of the same.\r\nThe women pulled a stunner over Jamaica in the 4x100 relay at world championships Saturday, while… [+5506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Adam B. Vary",
+            "title": "Marvel Studios’ Phases 5 and 6: Everything We Learned at Comic-Con About the Multiverse Saga - Variety",
+            "description": "Three years after unveiling Phase 4 of the Marvel Cinematic Universe at San Diego Comic-Con, Marvel Studios chief Kevin Feige returned to Hall H to do the same for Phase 5, which included announcements for the new “Daredevil” Disney+ series and the “Thunderbo…",
+            "url": "https://variety.com/2022/film/news/marvel-studios-phase-5-phase-6-multiverse-saga-comic-con-1235323893/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/07/SDCC_MultiverseSaga_3000x3000.jpg?w=1024",
+            "publishedAt": "2022-07-24T04:32:00Z",
+            "content": "Three years after unveiling Phase 4 of the Marvel Cinematic Universe at San Diego Comic-Con, Marvel Studios chief Kevin Feige returned to Hall H to do the same for Phase 5, which included announcemen… [+8877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Gael Fashingbauer Cooper",
+            "title": "Black Panther: Wakanda Forever Trailer Unveiled at San Diego Comic-Con - CNET",
+            "description": "Marvel revealed a visually stunning first trailer for the next Black Panther movie.",
+            "url": "https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-trailer-unveiled-at-san-diego-comic-con/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c84fd4c4cf6530059fa1fbf05b24e3eae29893cc/2022/07/24/3ad24e76-6e81-4be6-b348-25bd9c0a912b/screen-shot-2022-07-24-at-11-25-30-am.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-07-24T04:08:00Z",
+            "content": "At San Diego Comic-Con, Marvel went wild, announcing MCU plans and new Avengers movies, but the first trailer for Black Panther: Wakanda Forever arguably stole the show. \r\nBlack Panther was a mega-hi… [+944 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jason Hanna, Rebekah Riess, Sara Smart and Andy Rose, CNN",
+            "title": "California's fast-moving Oak Fire burns nearly 12,000 acres and forces evacuations outside Yosemite National Park - CNN",
+            "description": "A wildfire raging for a second day Saturday in central California's Mariposa County outside Yosemite National Park has burned nearly 12,000 acres and forced thousands to evacuate from rural communities, officials said,",
+            "url": "https://www.cnn.com/2022/07/23/us/oak-fire-mariposa-county-yosemite/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220723024757-01-california-oak-fire-072222-super-tease.jpg",
+            "publishedAt": "2022-07-24T03:21:00Z",
+            "content": "(CNN)A wildfire raging for a second day Saturday in central California's Mariposa County outside Yosemite National Park has burned nearly 12,000 acres and forced thousands to evacuate from rural comm… [+3992 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Guardians of the Galaxy 3 Trailer Description: Marvel Shows Footage at SDCC - Collider",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vY29sbGlkZXIuY29tL2d1YXJkaWFucy1vZi10aGUtZ2FsYXh5LTMtdHJhaWxlci1kZXNjcmlwdGlvbi1iYWJ5LXJvY2tldC1hZGFtLXdhcmxvY2sv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-24T02:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Trump and DeSantis fight for the heart of the GOP in Florida - POLITICO",
+            "description": "A growing legion of conservatives see Ron DeSantis as what’s next in the party.",
+            "url": "https://www.politico.com/news/2022/07/23/trump-and-desantis-fight-for-the-heart-of-the-gop-in-florida-00047576",
+            "urlToImage": "https://static.politico.com/5d/14/ab6e302c4d968129571d3d99c21c/https-delivery.gettyimages.com/downloads/1410541261",
+            "publishedAt": "2022-07-24T02:41:56Z",
+            "content": "If I announced I was not going to run for office, the persecution of Donald Trump would immediately stop, Trump said at the Turning Point USA Student Action Summit. But thats what they want me to do.… [+4760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "Alexander K. Lee",
+            "title": "Drake promises Rolex watches to Molly McCann, Paddy Pimblett after winning $2 million wager - MMA Fighting",
+            "description": "Music superstar Drake won big on Saturday thanks to UFC London stars Molly McCann and Paddy Pimblett, and he plans to return the favor.",
+            "url": "https://www.mmafighting.com/2022/7/23/23275801/drake-promises-rolex-watches-to-molly-mccann-paddy-pimblett-after-winning-2-million-wager",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6-9xIjC6kiIiF76onUX02hEua3k=/0x45:5069x2699/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23895724/1239338319.jpg",
+            "publishedAt": "2022-07-24T01:02:13Z",
+            "content": "Drake is the newest member of the Paddy Pimblett and Molly McCann fan club.\r\nAhead of Saturdays UFC London event, the promotion shared a screenshot of the music superstars massive wager that required… [+1388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Polio live oral vaccine: Here's why the US stopped using it years ago - New York Post ",
+            "description": "The new case raises the issue of polio vaccinations — and what Americans should know to protect their health.",
+            "url": "https://nypost.com/2022/07/23/polio-live-oral-vaccine-heres-why-the-us-stopped-using-it-years-ago/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/AFGHANISTAN_HEALTH_POLIO_VACCINAT_ION-e1658611818205.jpeg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-07-24T00:16:00Z",
+            "content": "An unvaccinated Rockland County, N.Y., resident exposed to an individual who received an oral poliovirus vaccine contracted the neurological disease and is now paralyzed, according to Rockland County… [+8096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war: what we know on day 151 of the invasion - The Guardian",
+            "description": "Russian missiles hit Odesa hours after deal to allow resumption of grain exports; US accuses Russia of deepening global food crisis",
+            "url": "https://amp.theguardian.com/world/2022/jul/24/russia-ukraine-war-what-we-know-on-day-151-of-the-invasion",
+            "urlToImage": null,
+            "publishedAt": "2022-07-23T23:52:00Z",
+            "content": "<li>Russia has targeted Ukraines main port of Odesa through which grain shipments would take place with cruise missile strikes, barely 12 hours after Moscow signed a deal with Ukraine to allow monito… [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amanda Coletta, Chico Harlan",
+            "title": "Pope Francis heads to Canada to apologize for indigenous people residential schools - The Washington Post",
+            "description": "This trip is unlike any other in papal history: Expressing remorse over the church's role in the Indigenous residential school system is its primary purpose.",
+            "url": "https://www.washingtonpost.com/world/2022/07/23/pope-francis-canada-trip-apology/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FNDJPEQKJAI63AFWIPZL7TDGMI.jpg&w=1440",
+            "publishedAt": "2022-07-23T23:27:00Z",
+            "content": "Comment on this story\r\nTORONTO Pope Francis on Sunday is scheduled to begin a visit to Canada, where he will come face-to-face with one of the countrys core tragedies: the often-abusive residential s… [+8409 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bob Nightengale, USA TODAY",
+            "title": "Hall of Famers Reggie Jackson, Goose Gossage change minds, attend David Ortiz induction - USA TODAY",
+            "description": "Reggie Jackson and Goose Gossage had planned to not attend in protest of the induction of David Ortiz because of his failed PED test.",
+            "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2022/07/23/reggie-jackson-goose-gossage-change-mind-attend-david-ortiz-induction/10136490002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/23/USAT/fcb08425-e77c-408d-8ef8-4035b59779ed-AP_Hall_of_Fame_Inductions_Preview_Baseball.jpg?auto=webp&crop=7733,4350,x0,y351&format=pjpg&width=1200",
+            "publishedAt": "2022-07-23T22:51:24Z",
+            "content": "COOPERSTOWN, N.Y. — They had no plans to attend the Hall of Fame ceremony.\r\nThey apologized to Hall of Fame officials, but sorry, they said they just couldn’t sit idly by and watch David Ortiz be cel… [+7288 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Denise Roland",
+            "title": "WHO Declares Monkeypox a Global Health Emergency - The Wall Street Journal",
+            "description": "The World Health Organization’s move came despite the majority of experts on an advisory committee recommending against a declaration.",
+            "url": "https://www.wsj.com/articles/who-declares-monkeypox-a-global-health-emergency-11658586983",
+            "urlToImage": "https://images.wsj.net/im-568075/social",
+            "publishedAt": "2022-07-23T22:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WABC-TV"
+            },
+            "author": null,
+            "title": "Suspect arrested on federal assault charge after attack on Congressman Lee Zeldin during gubernatorial campaign speech - WABC-TV",
+            "description": "Lee Zeldin, the Republican candidate for New York governor, was assaulted by a man who apparently tried to stab him at an upstate event Thursday.",
+            "url": "https://abc7ny.com/lee-zeldin-attacked-campaign-speech-gubernatorial-candidate/12069199/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12066711_072222-wabc-zeldin-attacked-img.jpg?w=1600",
+            "publishedAt": "2022-07-23T22:41:15Z",
+            "content": "NEW YORK (WABC) -- The man who jumped on stage and tried to attack the Republican nominee for New York governor was arrested on a federal charge Saturday.Authorities say U.S. Rep. Lee Zeldin was assa… [+4701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Luc Olinga",
+            "title": "GM Has Its 'Hermès' Car to Take on Rolls-Royce - TheStreet",
+            "description": "The Detroit giant seeks to revive cachet with a car that will cause a stir.",
+            "url": "https://www.thestreet.com/technology/gm-has-its-hermès-car-to-take-on-rolls-royce",
+            "urlToImage": "https://www.thestreet.com/.image/t_share/MTkwODkxMTkxMDI4NDI2NDIy/cadillac-celestiq-ev2.jpg",
+            "publishedAt": "2022-07-23T22:05:40Z",
+            "content": "General Motors  (GM) - Get General Motors Company Report finally seems to have a vehicle that will propel it back into the ranks of manufacturers of premiere high-end luxury vehicles to compete with … [+4088 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "McKenna Oxenden",
+            "title": "U.S. Taking Emergency Steps to Protect Sequoias From Wildfires - The New York Times",
+            "description": "The U.S. Forest Service will expedite plans to clear brush that fuels fires and take other measures to protect the centuries-old trees.",
+            "url": "https://www.nytimes.com/2022/07/23/us/sequoias-fire-forest-service-emergency-action.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/23/multimedia/23xp-sequoia-ukz-sequoia/23xp-sequoia-ukz-sequoia-facebookJumbo.jpg",
+            "publishedAt": "2022-07-23T21:47:08Z",
+            "content": "Between 2015 and 2021, more than 85 percent of the acreage of all giant sequoia groves across the Sierra Nevada burned in wildfires, compared with 25 percent in the previous century, the Park Service… [+984 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Abha Bhattarai",
+            "title": "Biden likely has the BA.5 omicron variant, but symptoms his remain mild, his physician said - The Washington Post",
+            "description": "His doctor says the president continues to respond well to treatment and provided a list of medications he is taking.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/23/biden-covid-variant/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/62dc6388aa8a194cea79924c/2022-07-23T204937Z_1_OV400723072022RP1_RTRMADC_0_HEALTH-CORONAVIRUS-BIDEN.jpg&w=1440",
+            "publishedAt": "2022-07-23T21:24:00Z",
+            "content": "Comment on this story\r\nPresident Biden, who tested positive for coronavirus on Thursday, probably has the BA.5 variant and continues to experience mild symptoms that are improving, the White House sa… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Sydney McLaughlin shatters 400 hurdles record with 50.68 - Fox News",
+            "description": "Sydney McLaughlin shattered her world record by a whopping 0.73 seconds, blazing through the 400-meter hurdles in 50.68 seconds for her first title at world championships",
+            "url": "https://www.foxnews.com/sports/sydney-mclaughlin-shatters-400-hurdles-record-50-68",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/AP22204119679839.jpg",
+            "publishedAt": "2022-07-23T21:19:44Z",
+            "content": "In the hurdles world before Sydney McLaughlin, it took years to shave fractions of seconds off records, and winning races didn't always mean rewriting history.\r\nThis once-in-a-lifetime athlete is obl… [+6293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Florian Schmitt",
+            "title": "Review: Nothing Phone (1) – transparent designer piece at mid-range price - Notebookcheck.net",
+            "description": "Our experts test out the Nothing Phone (1). This cool-looking smartphone from OnePlus co-founder Carl Pei sets out to do many things differently and features an attractive lighting design. But is it just as impressive under the hood?",
+            "url": "https://www.notebookcheck.net/Review-Nothing-Phone-1-transparent-designer-piece-at-mid-range-price.635734.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Nothing/Phone_1/4_zu_3_Nothing_Phone_1.jpg",
+            "publishedAt": "2022-07-23T19:27:52Z",
+            "content": "The design is certainly the first thing that catches the eye about the Nothing Phone (1): it is available in a simple white or black with a striking metal frame in silver or black respectively. That … [+2323 chars]"
+        }
+    ]
+}
