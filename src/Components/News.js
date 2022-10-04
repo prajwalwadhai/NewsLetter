@@ -68,7 +68,7 @@ export class News extends Component {
   render() {
     return (
       <>
-        <div className='container my-3'>
+        <div className="container my-3">
           <h1 className="text-center my-4">Top News</h1>
           <div className="container ">
               {this.state.loading && <Spinner/>}
@@ -80,9 +80,12 @@ export class News extends Component {
             </div>
           })}
           </div>
-          <div className="container d-flex justify-content-between">
+          <div className="container d-flex justify-content-between my-3">
           <button disabled ={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}>&larr; Previous</button>
           <button disabled ={this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
+          </div>
+          <div className="container ">
+              {this.state.loading && <Spinner/>}
           </div>
         </div>
         
