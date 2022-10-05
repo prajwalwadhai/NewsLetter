@@ -84,9 +84,6 @@ export class News extends Component {
           <button disabled ={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}>&larr; Previous</button>
           <button disabled ={this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
           </div>
-          <div className="container ">
-              {this.state.loading && <Spinner/>}
-          </div>
         </div>
         
       </>
