@@ -45,7 +45,7 @@ export default function Footer() {
           <div className="d-flex flex-column flex-sm-row w-100 gap-2">
             <label for="newsletter1" className="visually-hidden">Email address</label>
             <input id="newsletter1" type="text" className="form-control" placeholder="Email address"/>
-            <button className="btn btn-dark" type="button">Subscribe</button>
+            <button className="btn btn-danger" type="button">Subscribe</button>
           </div>
         </form>
       </div>
