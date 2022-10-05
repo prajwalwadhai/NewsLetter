@@ -25,8 +25,8 @@ export class News extends Component {
         }
     }
 
-    async componentDidMount(){
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c7501a3ee13240e7bca0c34a5d72974a&page=1&pageSize=${this.props.pageSize}`;
+    async updateNews(){
+      const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c7501a3ee13240e7bca0c34a5d72974a&page=${this.state.page}&pageSize=${this.props.pageSize}`;
         this.setState({loading : true});
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -37,39 +37,25 @@ export class News extends Component {
         });
     }
 
-    handlePrevClick = async ()=>{
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c7501a3ee13240e7bca0c34a5d72974a&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
-        this.setState({loading : true});
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        console.log(parsedData);
-        this.setState({articles: parsedData.articles});
-        this.setState({
-            page : this.state.page - 1,
-            articles: parsedData.articles,
-            loading : false
-        })
-    }
-    handleNextClick = async ()=>{
-        if(!(this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize))){
-            let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c7501a3ee13240e7bca0c34a5d72974a&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
-            this.setState({loading : true});
-            let data = await fetch(url);
-            let parsedData = await data.json();
-            this.setState({articles: parsedData.articles});
-            this.setState({
-                page : this.state.page + 1,
-                articles: parsedData.articles,
-                loading : false
-            })
-        }
+    async componentDidMount(){
+        this.updateNews();
     }
 
-  render() {
+    handlePrevClick = async ()=>{
+        this.setState({page: this.state.page + 1});
+        this.updateNews();
+    }
+    handleNextClick = async ()=>{
+        this.setState({page: this.state.page + 1});
+        this.updateNews();
+    }
+    
+
+  render(){
     return (
       <>
         <div className="container my-3">
-          <h1 className="text-center my-4">Top News</h1>
+          <h1 className="text-center my-4">Top News - NewsLetter.com</h1>
           <div className="container ">
               {this.state.loading && <Spinner/>}
           </div>
