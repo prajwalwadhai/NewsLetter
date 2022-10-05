@@ -15,14 +15,20 @@ export class News extends Component {
       category: PropTypes.string
     }
     articles = []
-    constructor(){
-        super();
+
+    capitalizeFirstLetter = (string)=>{
+      return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+
+    constructor(props){          // while using the constructor, super() is always use
+        super(props);
         console.log("Hellow this is constructor from News.js");
         this.state = {
             articles: [],
             loading: false,
             page: 1
         }
+        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsLetter`;
     }
 
     async updateNews(){
@@ -55,7 +61,7 @@ export class News extends Component {
     return (
       <>
         <div className="container my-3">
-          <h1 className="text-center my-4">Top News - NewsLetter.com</h1>
+          <h1 className="text-center my-4">NewsLetter - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1>
           <div className="container ">
               {this.state.loading && <Spinner/>}
           </div>
