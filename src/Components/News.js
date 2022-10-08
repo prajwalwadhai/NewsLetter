@@ -51,8 +51,8 @@ const News = (props) => {
     // }
     
     const fetchMoreData = async () => {
-      setPage(page + 1)
-      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
+      setPage(page + 1);    // kiv ki ye async fuction hai to vo time laga raha hai setPage hone me to isliye pehle manualy page update karrenge our fir barme setPage ki help se page update karenge
       // setLoading(true)
         let data = await fetch(url);
         let parsedData = await data.json();
