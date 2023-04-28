@@ -63,7 +63,7 @@ const News = (props) => {
 
     return (
       <>
-          <h1 className="text-center " style= {{margin : '25px 0px', marginTop:'74px'}}>NewsLetter - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
+          <h1 className="text-center " style= {{margin : '25px 0px', marginTop:'30px'}}>NewsLetter - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
           <div className="container ">
               {loading && <Spinner/>}
           </div>
@@ -80,7 +80,7 @@ const News = (props) => {
           <div className="row">
               {articles.map((element)=>{
                 return <div className="col-md-4" key ={element.url}>
-                  <NewsItem title={element.title?element.title.slice(0,45):""} description = {element.description?element.description.slice(0,100):""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
+                  <NewsItem title={element.title?element.title.slice(0,55):""} description = {element.description?element.description.slice(0,100):""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
                 </div>
               })}
           </div>
