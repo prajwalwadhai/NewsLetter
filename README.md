@@ -103,3 +103,25 @@ SCREENSHOTS
 
 
 
+https://github.com/prajwalwadhai/NewsLetter/assets/91681438/53533894-292d-4719-a9d3-b2a40495cfa2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
