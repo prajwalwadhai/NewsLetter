@@ -39,6 +39,47 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+
+
+# Screenshots :
+
+![Screenshot (107)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/78023794-f2b0-41e5-b0d5-5c6552f714f3)
+
+
+
+
+
+
+![Screenshot (105)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/41be2836-f066-49d9-9511-eec237cc0c2d)
+
+
+
+
+
+
+
+
+![Screenshot (109)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/628c1c3d-90da-43b5-98ef-78e58f093876)
+
+
+
+
+
+
+
+# Video Demonstration :
+
+
+
+
+
+
+
+https://github.com/prajwalwadhai/NewsLetter/assets/91681438/53533894-292d-4719-a9d3-b2a40495cfa2
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -68,45 +109,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-SCREENSHOTS :
-
-![Screenshot (107)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/78023794-f2b0-41e5-b0d5-5c6552f714f3)
-
-
-
-
-
-
-![Screenshot (105)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/41be2836-f066-49d9-9511-eec237cc0c2d)
-
-
-
-
-
-
-
-
-![Screenshot (109)](https://github.com/prajwalwadhai/NewsLetter/assets/91681438/628c1c3d-90da-43b5-98ef-78e58f093876)
-
-
-
-
-
-
-
-VIDEO DEMONSTRATION :
-
-
-
-
-
-
-
-https://github.com/prajwalwadhai/NewsLetter/assets/91681438/53533894-292d-4719-a9d3-b2a40495cfa2
-
-
 
 
 
